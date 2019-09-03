@@ -1,0 +1,18 @@
+{
+  "requestRecordReference" : "RRR756717",
+  "correspondentBankDirectoryEntryInstanceRecord" : {
+    "contactAddresses" : "contactAddresses",
+    "nostroMirrorAccountReference" : "751062",
+    "correspondentBankAgreement" : "correspondentBankAgreement",
+    "correspondentBankReference" : "719305",
+    "clearingSortCodes" : "clearingSortCodes",
+    "bankHierarchy" : "bankHierarchy",
+    "vostroAccountReference" : "786568",
+    "correspondentBankAgreementReference" : "750969",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "legalEntityIdentifiers" : "legalEntityIdentifiers"
+  },
+  "correspondentBankDirectoryEntryRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "correspondentBankDirectoryEntryRequestActionTaskReference" : "CBDERATR763269"
+}

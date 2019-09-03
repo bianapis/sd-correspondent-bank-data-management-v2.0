@@ -1,0 +1,17 @@
+{
+  "correspondentBankDirectoryEntryUpdateActionTaskReference" : "CBDEUATR775811",
+  "correspondentBankDirectoryEntryInstanceRecord" : {
+    "contactAddresses" : "contactAddresses",
+    "nostroMirrorAccountReference" : "741387",
+    "correspondentBankAgreement" : "correspondentBankAgreement",
+    "correspondentBankReference" : "721129",
+    "clearingSortCodes" : "clearingSortCodes",
+    "bankHierarchy" : "bankHierarchy",
+    "vostroAccountReference" : "711969",
+    "correspondentBankAgreementReference" : "799836",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "legalEntityIdentifiers" : "legalEntityIdentifiers"
+  },
+  "updateResponseRecord" : {},
+  "correspondentBankDirectoryEntryUpdateActionTaskRecord" : {}
+}

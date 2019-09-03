@@ -1,0 +1,27 @@
+{
+  "correspondentBankDirectoryEntryInstanceAnalysis" : {
+    "correspondentBankDirectoryEntryInstanceAnalysisReportType" : "correspondentBankDirectoryEntryInstanceAnalysisReportType",
+    "correspondentBankDirectoryEntryInstanceAnalysisReport" : {},
+    "correspondentBankDirectoryEntryInstanceAnalysisData" : "correspondentBankDirectoryEntryInstanceAnalysisData"
+  },
+  "correspondentBankDirectoryEntryInstanceRecord" : {
+    "contactAddresses" : "contactAddresses",
+    "nostroMirrorAccountReference" : "727456",
+    "correspondentBankAgreement" : "correspondentBankAgreement",
+    "correspondentBankReference" : "770601",
+    "clearingSortCodes" : "clearingSortCodes",
+    "bankHierarchy" : "bankHierarchy",
+    "vostroAccountReference" : "724391",
+    "correspondentBankAgreementReference" : "713682",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "legalEntityIdentifiers" : "legalEntityIdentifiers"
+  },
+  "correspondentBankDirectoryEntryRetrieveActionTaskRecord" : {},
+  "correspondentBankDirectoryEntryRetrieveActionTaskReference" : "CBDERATR798878",
+  "correspondentBankDirectoryEntryRetrieveActionResponse" : "correspondentBankDirectoryEntryRetrieveActionResponse",
+  "correspondentBankDirectoryEntryInstanceReportRecord" : {
+    "correspondentBankDirectoryEntryInstanceReportType" : "correspondentBankDirectoryEntryInstanceReportType",
+    "correspondentBankDirectoryEntryInstanceReportData" : "correspondentBankDirectoryEntryInstanceReportData",
+    "correspondentBankDirectoryEntryInstanceReport" : {}
+  }
+}
